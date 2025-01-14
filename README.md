@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: im ga
+- ⚡ Fun fact: im femboi
 
 <!---
 krrishray/krrishray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
