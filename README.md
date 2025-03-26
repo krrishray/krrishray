@@ -1,61 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krishna's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .profile-card {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            text-align: center;
-            max-width: 400px;
-        }
-        .profile-card h1 {
-            margin: 10px 0;
-            color: #333;
-        }
-        .profile-card p {
-            color: #666;
-            margin: 8px 0;
-        }
-        .profile-card a {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px 15px;
-            text-decoration: none;
-            color: white;
-            background: #0073e6;
-            border-radius: 5px;
-        }
-        .profile-card a:hover {
-            background: #005bb5;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center">Hi, I'm Krishna 👋</h1>
 
-    <div class="profile-card">
-        <h1>👋 Hi, I'm Krishna (@krrishray)</h1>
-        <p>👀 Passionate about coding</p>
-        <p>🌱 Currently mastering Python</p>
-        <p>💻 Open to GitHub collaborations</p>
-        <a href="https://github.com/krrishray" target="_blank">GitHub</a>
-    </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrishray&color=blue" alt="Profile views"/>
+</p>
 
-</body>
-</html>
+## 🚀 About Me  
+- 🔥 Passionate about **coding & open-source**  
+- 🌱 Learning **Python, C++**  
+- 🤝 Looking for collaborations on **GitHub projects**  
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, C++  
+- **Tools:** Git, GitHub, VS Code  
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krrishray&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishray&theme=radical" width="48%" />
+</p>
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/krrishray">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 <!---
 krrishray/krrishray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
